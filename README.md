@@ -15,4 +15,6 @@ Register an account on the website (no email required). Browse albums and artist
 
 ![screenshot1](screenshots/image1.png)
 
-![screenshot1](screenshots/image2.png)
+![screenshot2](screenshots/image2.png)
+
+![screenshot3](screenshots/image3.png)
